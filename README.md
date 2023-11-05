@@ -9,7 +9,6 @@ The resulting RSS feed is ready to consume with your favorite RSS reader. It's f
 *review-week.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. GitHub Actions run it. 
 
 *review-monthly.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. GitHub Actions run it.
-
 Now, what's in *cyberattacks.json*?
 A set of cyberattacks was mentioned in the media and spotted thanks to the meta cyberattacks RSS feed. 
 You'll find there the name of the victim, the country, the date, a short description of the situation, and a link to the original news story. 
